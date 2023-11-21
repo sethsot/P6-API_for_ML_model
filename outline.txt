@@ -1,0 +1,25 @@
+Business Understanding
+    1. Explanation of features
+    2. Hypothesis (Null and Alternate)
+    3. Analytical questions
+Data Understanding
+    1. Importation
+    2. Load Dataset
+    3. EDA
+        1. Explore data (info, duplicated, null values, describe)
+        2. Univariate, Bi-variate, Multi-variate Analysis
+    4. Answer Analytical questions
+Data Preparation
+    1. Split dataset into X, y
+    2. Create a pipeline to preprocess the data
+        1. Scale
+        2. Log transformation
+    3. Encode
+    4. Split dataset into training and evaluation
+    5. Check balance - Balance dataset 
+Modeling & evaluation
+    1. Train Modeling  
+        1. Train Model 1 - 
+        2. Train Model 2 - 
+        3. Train Model 3 -
+    2. Persit Model 
