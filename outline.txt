@@ -23,3 +23,24 @@ Modeling & evaluation
         2. Train Model 2 - 
         3. Train Model 3 -
     2. Persit Model 
+
+
+
+   DATA UNDERSTANDING
+    1. Data Collection
+The data collection process is the first step in the analysis of a dataset, and it involves gathering all relevant information from various sources to form a comprehension
+2. Initial Data inspection
+    * Get an overview of the dataset's size, dimensions, and structure
+    *understand the data types(numeric, categorical, text)
+3. Descriptive statistics 
+    * compute summary statistics for each feature, such as mean, median, standard deviation, minimum, maximum, etc
+4. Data Visualization
+    *Create visualizations like histograms, box plots, scatter plots, and correlation matrices to explore the distribution and relationships between variables. 
+    *identify patterns, trends, and potential outliers. 
+5. Handle missing values
+6. Data cleaning
+    *clean the data by addressing inconsistencies, errors, or outliers
+    *ensure that the data is in a format suitable for analysis 
+7. Feature Engineering
+    *Create new features or transform existing ones to enhance the predictive power of the model
+    *Encode categorical
