@@ -1,16 +1,14 @@
 # P6-API_for_ML_model
 
-Machine Learning API using FastAPI
-Develop a Machine Learning API (Application Programming Interface) using FastAPI.
+## Develop a Machine Learning classification model (Application Programming Interface) using FastAPI.
+![sepsis](https://github.com/sethsot/P6-API_for_ML_model/assets/137343449/937e7b88-79f2-4c55-9b3a-a3ad40204f15)
 
-python MIT licensed Python
 
 Introduction
-In this project, we aim to discover how to create an API that might be requested to interact with a ML model. This is an interesting solution when you want to keep your model architecture secret or to make your model available to users already having an API. By creating an API, and deploying it, your model can receive request using the internet protocol as presented by the illustration below.
+In this project, we aim to discover how to create an API that might be requested to interact with our classification ML model. This is an interesting solution when you want to keep your model architecture secret or to make your model available to users already having an API. By creating an API, and deploying it, your model can receive request using the internet protocol. 
 
-API illustration
+![api depiction](https://github.com/sethsot/P6-API_for_ML_model/assets/137343449/f59b4f22-e6ac-4505-9460-466c2123136b)
 
-Source : The benefits of Machine Learning APIs - UbiOps
 
 Description
 You will have a minimal API demo with FastAPI, this will just serve you to make sure that everything works correctly. Then, you will have to make your own API, this allowing you to interact with a Machine Learning model, that is to say:
